@@ -35,3 +35,4 @@ int main(){
         cout<<"INPUT A THREE DIGIT NUMBER ! ";
     }
 }
+
