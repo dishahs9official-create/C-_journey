@@ -32,7 +32,7 @@ int main(){
 
     }
     else{
-        cout<<"INPUT A THREE DIGIT NUMBER ! ";
+        cout<<"INPUT ! ";
     }
 }
 
